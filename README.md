@@ -15,5 +15,5 @@ npm test
 ### To genrate mochawesome report
 - run in cmd line
 ```
-cmd npm test-html
+npm test-html
 ```
