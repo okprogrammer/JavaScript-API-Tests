@@ -65,7 +65,7 @@ describe('Users', ()=>{
             });
     });
 
-    it('DELETE /:id', () => {
+    it.skip('DELETE /:id', () => {
         return request
             .delete(`v1/users/31?access-token=${TOKEN}`)
             .then((res) => {
