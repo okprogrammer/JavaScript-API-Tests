@@ -1,7 +1,7 @@
 # JavaScript-API-Automation-Tests
 Javascript api automation tests created using supertest api.
 
-# To start 
+### To start 
 clone locally
 - run in cmd line
 ```
